@@ -1,0 +1,1 @@
+# teratalk-speech-ai-core
